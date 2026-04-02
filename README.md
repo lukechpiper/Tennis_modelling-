@@ -19,7 +19,7 @@ Player information (winner_name, loser_name, winner_rank, loser_rank, winner_han
 Match statistics (w_ace, w_1stIn, w_1stWon, l_1stWon, w_bpSaved, l_bpFaced, etc.)
 Match outcomes (score, best_of, round, minutes)
 
-These features allow the construction of both match-level and approximate point-level models.
+These features allow the construction of match and approximate point level models.
 
 Evaluation Metrics
 
